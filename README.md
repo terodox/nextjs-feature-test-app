@@ -1,0 +1,21 @@
+# nextjs-feature-test-app
+
+- Static Site Generation (SSG)
+- Static Site Generation — with dynamic routes
+- Static Site Generation — with dynamic route fallback
+- Incremental Static Regeneration (ISR)
+- Server Side Rendering (SSR)
+- Server Side Rendering — redirect
+- Server Side Rendering — page not found
+- API Route
+- Middleware — rewrite
+- Middleware — redirect
+- Middleware — set header
+- Middleware — geolocation
+- NextAuth
+- Image Optimization — imported image
+- Image Optimization — remote image
+- Image using html image tag
+- Font — CSS Font
+- Font — @next/font
+- 404 Page not found
